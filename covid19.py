@@ -68,8 +68,7 @@ class curve:
                 span -= 1
     def calculate(curve): return [len(set(day)) for day in curve.day]
 
-def calculate_curve(results, calculate_curve_using_levels_up_to = 2,
-    data_file='data.csv', check_file='raw_data.csv', tries=1000):
+def calculate_curve(results, calculate_curve_using_levels_up_to = 2, data_file='data.csv', check_file='raw_data.csv', tries=1000):
     ''' function to calculate occupation curve corrected by a model '''
     idc, datec = 0, 3
     subs, pcr = {}, None
