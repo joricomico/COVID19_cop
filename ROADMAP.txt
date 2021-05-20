@@ -1,1 +1,3 @@
-Next version update set for: 8th March 2021.
+Next version update set for: 8th March 2021. MISSED for technical reasons.
+
+This version will be soon discontinued. The project will continue on: https://github.com/joricomico/COVID19_trial.
